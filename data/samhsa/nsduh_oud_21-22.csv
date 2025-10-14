@@ -1,0 +1,52 @@
+outcome,age_group,year_pair,state,estimate,ci_lower,ci_upper
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Alabama,0.0253733893,0.0185366831,0.0346426103
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Alaska,0.020744156,0.0145040416,0.0295883673
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Arizona,0.0225130764,0.0164547454,0.0307322748
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Arkansas,0.0219426623,0.0160142982,0.0299987513
+Opioid Use Disorder in Past Year,12 or Older,2022-23,California,0.0185526682,0.0146783078,0.023425359
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Colorado,0.0200183677,0.0145022693,0.0275738707
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Connecticut,0.0201230713,0.0139915443,0.0288629667
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Delaware,0.0210117013,0.015096394,0.0291761759
+Opioid Use Disorder in Past Year,12 or Older,2022-23,District of Columbia,0.0211179238,0.015049527,0.029559834
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Florida,0.0201535897,0.0156759692,0.0258765572
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Georgia,0.0231547972,0.0174233803,0.0307126315
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Hawaii,0.0198500475,0.0133776292,0.0293607871
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Idaho,0.0187961836,0.0135924675,0.0259396924
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Illinois,0.018933244,0.0141036534,0.025374093
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Indiana,0.0208586546,0.0153805245,0.0282320018
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Iowa,0.0212256942,0.0148798505,0.0301949127
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Kansas,0.0211828625,0.015316193,0.0292299779
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Kentucky,0.0314071837,0.0230916037,0.0425867671
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Louisiana,0.0375224363,0.0279684928,0.0501715239
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Maine,0.0198660908,0.014439443,0.027275745
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Maryland,0.0189445105,0.0133650193,0.026790024
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Massachusetts,0.0194558381,0.013894588,0.0271815999
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Michigan,0.0202925101,0.0157790016,0.0260628978
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Minnesota,0.0176196516,0.0124096462,0.0249617143
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Mississippi,0.0336077735,0.0247837943,0.0454270829
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Missouri,0.0224644001,0.016264357,0.0309535587
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Montana,0.0172607217,0.0121655964,0.0244369696
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Nebraska,0.0204040012,0.0148185486,0.0280348306
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Nevada,0.0251589443,0.0183304927,0.0344418755
+Opioid Use Disorder in Past Year,12 or Older,2022-23,New Hampshire,0.0221321001,0.0158712766,0.0307854044
+Opioid Use Disorder in Past Year,12 or Older,2022-23,New Jersey,0.0191402805,0.0138456177,0.0264054457
+Opioid Use Disorder in Past Year,12 or Older,2022-23,New Mexico,0.0284160474,0.0209554133,0.0384285904
+Opioid Use Disorder in Past Year,12 or Older,2022-23,New York,0.0192469189,0.015079296,0.0245376948
+Opioid Use Disorder in Past Year,12 or Older,2022-23,North Carolina,0.022309366,0.0165147215,0.0300750454
+Opioid Use Disorder in Past Year,12 or Older,2022-23,North Dakota,0.017624281,0.0123979855,0.0249979252
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Ohio,0.0216083285,0.0169121159,0.0275720268
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Oklahoma,0.0261878204,0.0192515479,0.0355326669
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Oregon,0.0210799329,0.0150852827,0.0293856869
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Pennsylvania,0.0191579613,0.0146400774,0.0250346287
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Rhode Island,0.0227710594,0.0160425819,0.032229118
+Opioid Use Disorder in Past Year,12 or Older,2022-23,South Carolina,0.0235340595,0.0167856201,0.0329048218
+Opioid Use Disorder in Past Year,12 or Older,2022-23,South Dakota,0.019915907,0.0137774592,0.0287096799
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Tennessee,0.0222058333,0.0162590327,0.0302607908
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Texas,0.020377885,0.0163135372,0.0254286467
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Utah,0.0184398591,0.0137426008,0.0247024398
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Vermont,0.0201957542,0.014243895,0.0285625562
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Virginia,0.0167239345,0.0123866326,0.0225453155
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Washington,0.0174730841,0.0123803013,0.0246086421
+Opioid Use Disorder in Past Year,12 or Older,2022-23,West Virginia,0.0343614694,0.0245576244,0.0478870434
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Wisconsin,0.0195395368,0.0140520617,0.0271110028
+Opioid Use Disorder in Past Year,12 or Older,2022-23,Wyoming,0.0219292509,0.0154493827,0.0310412539

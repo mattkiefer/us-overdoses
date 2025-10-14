@@ -1,0 +1,48 @@
+{
+    "release": {
+        "id": "acs2023_1yr",
+        "name": "ACS 2023 1-year",
+        "years": "2023"
+    },
+    "tables": {
+        "C17002": {
+            "columns": {
+                "C17002001": {
+                    "indent": 0,
+                    "name": "Total:"
+                },
+                "C17002002": {
+                    "indent": 1,
+                    "name": "Under .50"
+                },
+                "C17002003": {
+                    "indent": 1,
+                    "name": ".50 to .99"
+                },
+                "C17002004": {
+                    "indent": 1,
+                    "name": "1.00 to 1.24"
+                },
+                "C17002005": {
+                    "indent": 1,
+                    "name": "1.25 to 1.49"
+                },
+                "C17002006": {
+                    "indent": 1,
+                    "name": "1.50 to 1.84"
+                },
+                "C17002007": {
+                    "indent": 1,
+                    "name": "1.85 to 1.99"
+                },
+                "C17002008": {
+                    "indent": 1,
+                    "name": "2.00 and over"
+                }
+            },
+            "denominator_column_id": "C17002001",
+            "title": "Ratio of Income to Poverty Level in the Past 12 Months",
+            "universe": "Population for whom poverty status is determined"
+        }
+    }
+}

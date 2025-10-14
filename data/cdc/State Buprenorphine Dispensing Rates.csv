@@ -1,0 +1,256 @@
+﻿YEAR,STATE_NAME,STATE_ABBREV,STATE_FIPS,buprenorphine_dispensing_rate,Buprenorphine Dispensing Rate (per 100 persons)
+2019,Alabama,AL,01,7.8,>7.0
+2019,Alaska,AK,02,5.2,4.8 - 7.0
+2019,Arizona,AZ,04,2.5,<2.8
+2019,Arkansas,AR,05,3.4,2.8 - 4.7
+2019,California,CA,06,1.3,<2.8
+2019,Colorado,CO,08,2.2,<2.8
+2019,Connecticut,CT,09,7.2,>7.0
+2019,Delaware,DE,10,6.8,4.8 - 7.0
+2019,District of Columbia,DC,11,5.9,4.8 - 7.0
+2019,Florida,FL,12,3.5,2.8 - 4.7
+2019,Georgia,GA,13,2.4,<2.8
+2019,Hawaii,HI,15,1.8,<2.8
+2019,Idaho,ID,16,3.6,2.8 - 4.7
+2019,Illinois,IL,17,2.2,<2.8
+2019,Indiana,IN,18,7.3,>7.0
+2019,Iowa,IA,19,1.2,<2.8
+2019,Kansas,KS,20,1.7,<2.8
+2019,Kentucky,KY,21,20.9,>7.0
+2019,Louisiana,LA,22,5.9,4.8 - 7.0
+2019,Maine,ME,23,18.7,>7.0
+2019,Maryland,MD,24,6.5,4.8 - 7.0
+2019,Massachusetts,MA,25,11,>7.0
+2019,Michigan,MI,26,5.2,4.8 - 7.0
+2019,Minnesota,MN,27,2,<2.8
+2019,Mississippi,MS,28,5.3,4.8 - 7.0
+2019,Missouri,MO,29,3.3,2.8 - 4.7
+2019,Montana,MT,30,4.5,2.8 - 4.7
+2019,Nebraska,NE,31,1.1,<2.8
+2019,Nevada,NV,32,2.3,<2.8
+2019,New Hampshire,NH,33,11.5,>7.0
+2019,New Jersey,NJ,34,4,2.8 - 4.7
+2019,New Mexico,NM,35,4.9,4.8 - 7.0
+2019,New York,NY,36,4.6,2.8 - 4.7
+2019,North Carolina,NC,37,5.8,4.8 - 7.0
+2019,North Dakota,ND,38,4.3,2.8 - 4.7
+2019,Ohio,OH,39,9.1,>7.0
+2019,Oklahoma,OK,40,4.7,2.8 - 4.7
+2019,Oregon,OR,41,4.4,2.8 - 4.7
+2019,Pennsylvania,PA,42,9,>7.0
+2019,Rhode Island,RI,44,10.3,>7.0
+2019,South Carolina,SC,45,3.9,2.8 - 4.7
+2019,South Dakota,SD,46,1.4,<2.8
+2019,Tennessee,TN,47,12.6,>7.0
+2019,Texas,TX,48,1.5,<2.8
+2019,Utah,UT,49,4.3,2.8 - 4.7
+2019,Vermont,VT,50,28.6,>7.0
+2019,Virginia,VA,51,4.1,2.8 - 4.7
+2019,Washington,WA,53,5.5,4.8 - 7.0
+2019,West Virginia,WV,54,22.8,>7.0
+2019,Wisconsin,WI,55,3.1,2.8 - 4.7
+2019,Wyoming,WY,56,4.1,2.8 - 4.7
+2020,Alabama,AL,01,7.5,>7.0
+2020,Alaska,AK,02,5.1,4.8 - 7.0
+2020,Arizona,AZ,04,2.9,2.8 - 4.7
+2020,Arkansas,AR,05,3.5,2.8 - 4.7
+2020,California,CA,06,1.4,<2.8
+2020,Colorado,CO,08,2.4,<2.8
+2020,Connecticut,CT,09,7,4.8 - 7.0
+2020,Delaware,DE,10,7,4.8 - 7.0
+2020,District of Columbia,DC,11,5.5,4.8 - 7.0
+2020,Florida,FL,12,3.4,2.8 - 4.7
+2020,Georgia,GA,13,2.3,<2.8
+2020,Hawaii,HI,15,1.8,<2.8
+2020,Idaho,ID,16,3.9,2.8 - 4.7
+2020,Illinois,IL,17,2.2,<2.8
+2020,Indiana,IN,18,8.7,>7.0
+2020,Iowa,IA,19,1.3,<2.8
+2020,Kansas,KS,20,1.9,<2.8
+2020,Kentucky,KY,21,22,>7.0
+2020,Louisiana,LA,22,5.9,4.8 - 7.0
+2020,Maine,ME,23,19.6,>7.0
+2020,Maryland,MD,24,6.9,4.8 - 7.0
+2020,Massachusetts,MA,25,10.6,>7.0
+2020,Michigan,MI,26,5.1,4.8 - 7.0
+2020,Minnesota,MN,27,2,<2.8
+2020,Mississippi,MS,28,5,4.8 - 7.0
+2020,Missouri,MO,29,3.3,2.8 - 4.7
+2020,Montana,MT,30,4.7,2.8 - 4.7
+2020,Nebraska,NE,31,1.6,<2.8
+2020,Nevada,NV,32,2.4,<2.8
+2020,New Hampshire,NH,33,11.7,>7.0
+2020,New Jersey,NJ,34,3.8,2.8 - 4.7
+2020,New Mexico,NM,35,4.9,4.8 - 7.0
+2020,New York,NY,36,4.7,2.8 - 4.7
+2020,North Carolina,NC,37,6.2,4.8 - 7.0
+2020,North Dakota,ND,38,6,4.8 - 7.0
+2020,Ohio,OH,39,9.2,>7.0
+2020,Oklahoma,OK,40,4.7,2.8 - 4.7
+2020,Oregon,OR,41,4.6,2.8 - 4.7
+2020,Pennsylvania,PA,42,9.1,>7.0
+2020,Rhode Island,RI,44,9.2,>7.0
+2020,South Carolina,SC,45,4,2.8 - 4.7
+2020,South Dakota,SD,46,1.7,<2.8
+2020,Tennessee,TN,47,12,>7.0
+2020,Texas,TX,48,1.5,<2.8
+2020,Utah,UT,49,4.4,2.8 - 4.7
+2020,Vermont,VT,50,29,>7.0
+2020,Virginia,VA,51,4.6,2.8 - 4.7
+2020,Washington,WA,53,5.6,4.8 - 7.0
+2020,West Virginia,WV,54,25.9,>7.0
+2020,Wisconsin,WI,55,3.5,2.8 - 4.7
+2020,Wyoming,WY,56,3.5,2.8 - 4.7
+2021,Alabama,AL,01,7.3,>7.0
+2021,Alaska,AK,02,5,4.8 - 7.0
+2021,Arizona,AZ,04,2.9,2.8 - 4.7
+2021,Arkansas,AR,05,4,2.8 - 4.7
+2021,California,CA,06,1.5,<2.8
+2021,Colorado,CO,08,2.6,<2.8
+2021,Connecticut,CT,09,6.6,4.8 - 7.0
+2021,Delaware,DE,10,6.4,4.8 - 7.0
+2021,District of Columbia,DC,11,5,4.8 - 7.0
+2021,Florida,FL,12,3.1,2.8 - 4.7
+2021,Georgia,GA,13,2.3,<2.8
+2021,Hawaii,HI,15,1.8,<2.8
+2021,Idaho,ID,16,4.3,2.8 - 4.7
+2021,Illinois,IL,17,2.2,<2.8
+2021,Indiana,IN,18,9.7,>7.0
+2021,Iowa,IA,19,1.4,<2.8
+2021,Kansas,KS,20,1.9,<2.8
+2021,Kentucky,KY,21,22.9,>7.0
+2021,Louisiana,LA,22,5.9,4.8 - 7.0
+2021,Maine,ME,23,19.7,>7.0
+2021,Maryland,MD,24,7.1,>7.0
+2021,Massachusetts,MA,25,9.9,>7.0
+2021,Michigan,MI,26,5.4,4.8 - 7.0
+2021,Minnesota,MN,27,2.2,<2.8
+2021,Mississippi,MS,28,5,4.8 - 7.0
+2021,Missouri,MO,29,3.2,2.8 - 4.7
+2021,Montana,MT,30,4.3,2.8 - 4.7
+2021,Nebraska,NE,31,1.8,<2.8
+2021,Nevada,NV,32,2.4,<2.8
+2021,New Hampshire,NH,33,11.2,>7.0
+2021,New Jersey,NJ,34,3.9,2.8 - 4.7
+2021,New Mexico,NM,35,4.7,2.8 - 4.7
+2021,New York,NY,36,4.6,2.8 - 4.7
+2021,North Carolina,NC,37,5.9,4.8 - 7.0
+2021,North Dakota,ND,38,6.6,4.8 - 7.0
+2021,Ohio,OH,39,9,>7.0
+2021,Oklahoma,OK,40,4.6,2.8 - 4.7
+2021,Oregon,OR,41,4.8,4.8 - 7.0
+2021,Pennsylvania,PA,42,9.3,>7.0
+2021,Rhode Island,RI,44,9,>7.0
+2021,South Carolina,SC,45,4.3,2.8 - 4.7
+2021,South Dakota,SD,46,1.9,<2.8
+2021,Tennessee,TN,47,11.5,>7.0
+2021,Texas,TX,48,1.5,<2.8
+2021,Utah,UT,49,4.5,2.8 - 4.7
+2021,Vermont,VT,50,27.1,>7.0
+2021,Virginia,VA,51,5,4.8 - 7.0
+2021,Washington,WA,53,5.3,4.8 - 7.0
+2021,West Virginia,WV,54,27.7,>7.0
+2021,Wisconsin,WI,55,3.7,2.8 - 4.7
+2021,Wyoming,WY,56,2.7,<2.8
+2022,Alabama,AL,01,7.3,>7.0
+2022,Alaska,AK,02,5.3,4.8 - 7.0
+2022,Arizona,AZ,04,2.8,2.8 - 4.7
+2022,Arkansas,AR,05,4.7,2.8 - 4.7
+2022,California,CA,06,1.6,<2.8
+2022,Colorado,CO,08,2.7,<2.8
+2022,Connecticut,CT,09,6,4.8 - 7.0
+2022,Delaware,DE,10,6.8,4.8 - 7.0
+2022,District of Columbia,DC,11,4.4,2.8 - 4.7
+2022,Florida,FL,12,2.9,2.8 - 4.7
+2022,Georgia,GA,13,2.3,<2.8
+2022,Hawaii,HI,15,1.8,<2.8
+2022,Idaho,ID,16,4.5,2.8 - 4.7
+2022,Illinois,IL,17,2.2,<2.8
+2022,Indiana,IN,18,10.7,>7.0
+2022,Iowa,IA,19,1.3,<2.8
+2022,Kansas,KS,20,1.9,<2.8
+2022,Kentucky,KY,21,23.6,>7.0
+2022,Louisiana,LA,22,5.6,4.8 - 7.0
+2022,Maine,ME,23,17.8,>7.0
+2022,Maryland,MD,24,7,4.8 - 7.0
+2022,Massachusetts,MA,25,9.6,>7.0
+2022,Michigan,MI,26,5.3,4.8 - 7.0
+2022,Minnesota,MN,27,2.6,<2.8
+2022,Mississippi,MS,28,4.8,4.8 - 7.0
+2022,Missouri,MO,29,3,2.8 - 4.7
+2022,Montana,MT,30,4.3,2.8 - 4.7
+2022,Nebraska,NE,31,2.1,<2.8
+2022,Nevada,NV,32,2.4,<2.8
+2022,New Hampshire,NH,33,10.7,>7.0
+2022,New Jersey,NJ,34,3.9,2.8 - 4.7
+2022,New Mexico,NM,35,4.7,2.8 - 4.7
+2022,New York,NY,36,4.5,2.8 - 4.7
+2022,North Carolina,NC,37,5.7,4.8 - 7.0
+2022,North Dakota,ND,38,6.5,4.8 - 7.0
+2022,Ohio,OH,39,8.4,>7.0
+2022,Oklahoma,OK,40,4.8,4.8 - 7.0
+2022,Oregon,OR,41,5,4.8 - 7.0
+2022,Pennsylvania,PA,42,9.2,>7.0
+2022,Rhode Island,RI,44,8.7,>7.0
+2022,South Carolina,SC,45,4.3,2.8 - 4.7
+2022,South Dakota,SD,46,2.1,<2.8
+2022,Tennessee,TN,47,10.9,>7.0
+2022,Texas,TX,48,1.4,<2.8
+2022,Utah,UT,49,4.5,2.8 - 4.7
+2022,Vermont,VT,50,25.5,>7.0
+2022,Virginia,VA,51,5.4,4.8 - 7.0
+2022,Washington,WA,53,5.3,4.8 - 7.0
+2022,West Virginia,WV,54,27.2,>7.0
+2022,Wisconsin,WI,55,3.7,2.8 - 4.7
+2022,Wyoming,WY,56,3.1,2.8 - 4.7
+2023,Alabama,AL,01,7.6,>7.0
+2023,Alaska,AK,02,5,4.8 - 7.0
+2023,Arizona,AZ,04,2.7,<2.8
+2023,Arkansas,AR,05,5.4,4.8 - 7.0
+2023,California,CA,06,1.7,<2.8
+2023,Colorado,CO,08,2.9,2.8 - 4.7
+2023,Connecticut,CT,09,5.6,4.8 - 7.0
+2023,Delaware,DE,10,6.8,4.8 - 7.0
+2023,District of Columbia,DC,11,3.4,2.8 - 4.7
+2023,Florida,FL,12,2.8,2.8 - 4.7
+2023,Georgia,GA,13,2.3,<2.8
+2023,Hawaii,HI,15,1.7,<2.8
+2023,Idaho,ID,16,4.1,2.8 - 4.7
+2023,Illinois,IL,17,2.2,<2.8
+2023,Indiana,IN,18,10.7,>7.0
+2023,Iowa,IA,19,1.3,<2.8
+2023,Kansas,KS,20,1.9,<2.8
+2023,Kentucky,KY,21,22.4,>7.0
+2023,Louisiana,LA,22,5.4,4.8 - 7.0
+2023,Maine,ME,23,15.7,>7.0
+2023,Maryland,MD,24,6.6,4.8 - 7.0
+2023,Massachusetts,MA,25,8.7,>7.0
+2023,Michigan,MI,26,5.2,4.8 - 7.0
+2023,Minnesota,MN,27,2.5,<2.8
+2023,Mississippi,MS,28,5,4.8 - 7.0
+2023,Missouri,MO,29,3,2.8 - 4.7
+2023,Montana,MT,30,4.4,2.8 - 4.7
+2023,Nebraska,NE,31,2.4,<2.8
+2023,Nevada,NV,32,2.5,<2.8
+2023,New Hampshire,NH,33,10.4,>7.0
+2023,New Jersey,NJ,34,3.8,2.8 - 4.7
+2023,New Mexico,NM,35,4.7,2.8 - 4.7
+2023,New York,NY,36,4.2,2.8 - 4.7
+2023,North Carolina,NC,37,5.6,4.8 - 7.0
+2023,North Dakota,ND,38,4.9,4.8 - 7.0
+2023,Ohio,OH,39,7.9,>7.0
+2023,Oklahoma,OK,40,4.7,2.8 - 4.7
+2023,Oregon,OR,41,5.1,4.8 - 7.0
+2023,Pennsylvania,PA,42,8.9,>7.0
+2023,Rhode Island,RI,44,7.7,>7.0
+2023,South Carolina,SC,45,4,2.8 - 4.7
+2023,South Dakota,SD,46,2.2,<2.8
+2023,Tennessee,TN,47,10.4,>7.0
+2023,Texas,TX,48,1.4,<2.8
+2023,Utah,UT,49,4.4,2.8 - 4.7
+2023,Vermont,VT,50,23.7,>7.0
+2023,Virginia,VA,51,5.7,4.8 - 7.0
+2023,Washington,WA,53,5.2,4.8 - 7.0
+2023,West Virginia,WV,54,25.9,>7.0
+2023,Wisconsin,WI,55,3.6,2.8 - 4.7
+2023,Wyoming,WY,56,3.2,2.8 - 4.7

@@ -1,0 +1,280 @@
+{
+    "release": {
+        "id": "acs2023_5yr",
+        "name": "ACS 2023 5-year",
+        "years": "2019-2023"
+    },
+    "tables": {
+        "B27010": {
+            "columns": {
+                "B27010001": {
+                    "indent": 0,
+                    "name": "Total:"
+                },
+                "B27010002": {
+                    "indent": 1,
+                    "name": "Under 19 years:"
+                },
+                "B27010003": {
+                    "indent": 2,
+                    "name": "With one type of health insurance coverage:"
+                },
+                "B27010004": {
+                    "indent": 3,
+                    "name": "With employer-based health insurance only"
+                },
+                "B27010005": {
+                    "indent": 3,
+                    "name": "With direct-purchase health insurance only"
+                },
+                "B27010006": {
+                    "indent": 3,
+                    "name": "With Medicare coverage only"
+                },
+                "B27010007": {
+                    "indent": 3,
+                    "name": "With Medicaid/means-tested public coverage only"
+                },
+                "B27010008": {
+                    "indent": 3,
+                    "name": "With TRICARE/military health coverage only"
+                },
+                "B27010009": {
+                    "indent": 3,
+                    "name": "With VA Health Care only"
+                },
+                "B27010010": {
+                    "indent": 2,
+                    "name": "With two or more types of health insurance coverage:"
+                },
+                "B27010011": {
+                    "indent": 3,
+                    "name": "With employer-based and direct-purchase coverage"
+                },
+                "B27010012": {
+                    "indent": 3,
+                    "name": "With employer-based and Medicare coverage"
+                },
+                "B27010013": {
+                    "indent": 3,
+                    "name": "With Medicare and Medicaid/means-tested public coverage"
+                },
+                "B27010014": {
+                    "indent": 3,
+                    "name": "Other private only combinations"
+                },
+                "B27010015": {
+                    "indent": 3,
+                    "name": "Other public only combinations"
+                },
+                "B27010016": {
+                    "indent": 3,
+                    "name": "Other coverage combinations"
+                },
+                "B27010017": {
+                    "indent": 2,
+                    "name": "No health insurance coverage"
+                },
+                "B27010018": {
+                    "indent": 1,
+                    "name": "19 to 34 years:"
+                },
+                "B27010019": {
+                    "indent": 2,
+                    "name": "With one type of health insurance coverage:"
+                },
+                "B27010020": {
+                    "indent": 3,
+                    "name": "With employer-based health insurance only"
+                },
+                "B27010021": {
+                    "indent": 3,
+                    "name": "With direct-purchase health insurance only"
+                },
+                "B27010022": {
+                    "indent": 3,
+                    "name": "With Medicare coverage only"
+                },
+                "B27010023": {
+                    "indent": 3,
+                    "name": "With Medicaid/means-tested public coverage only"
+                },
+                "B27010024": {
+                    "indent": 3,
+                    "name": "With TRICARE/military health coverage only"
+                },
+                "B27010025": {
+                    "indent": 3,
+                    "name": "With VA Health Care only"
+                },
+                "B27010026": {
+                    "indent": 2,
+                    "name": "With two or more types of health insurance coverage:"
+                },
+                "B27010027": {
+                    "indent": 3,
+                    "name": "With employer-based and direct-purchase coverage"
+                },
+                "B27010028": {
+                    "indent": 3,
+                    "name": "With employer-based and Medicare coverage"
+                },
+                "B27010029": {
+                    "indent": 3,
+                    "name": "With Medicare and Medicaid/means-tested public coverage"
+                },
+                "B27010030": {
+                    "indent": 3,
+                    "name": "Other private only combinations"
+                },
+                "B27010031": {
+                    "indent": 3,
+                    "name": "Other public only combinations"
+                },
+                "B27010032": {
+                    "indent": 3,
+                    "name": "Other coverage combinations"
+                },
+                "B27010033": {
+                    "indent": 2,
+                    "name": "No health insurance coverage"
+                },
+                "B27010034": {
+                    "indent": 1,
+                    "name": "35 to 64 years:"
+                },
+                "B27010035": {
+                    "indent": 2,
+                    "name": "With one type of health insurance coverage:"
+                },
+                "B27010036": {
+                    "indent": 3,
+                    "name": "With employer-based health insurance only"
+                },
+                "B27010037": {
+                    "indent": 3,
+                    "name": "With direct-purchase health insurance only"
+                },
+                "B27010038": {
+                    "indent": 3,
+                    "name": "With Medicare coverage only"
+                },
+                "B27010039": {
+                    "indent": 3,
+                    "name": "With Medicaid/means-tested public coverage only"
+                },
+                "B27010040": {
+                    "indent": 3,
+                    "name": "With TRICARE/military health coverage only"
+                },
+                "B27010041": {
+                    "indent": 3,
+                    "name": "With VA Health Care only"
+                },
+                "B27010042": {
+                    "indent": 2,
+                    "name": "With two or more types of health insurance coverage:"
+                },
+                "B27010043": {
+                    "indent": 3,
+                    "name": "With employer-based and direct-purchase coverage"
+                },
+                "B27010044": {
+                    "indent": 3,
+                    "name": "With employer-based and Medicare coverage"
+                },
+                "B27010045": {
+                    "indent": 3,
+                    "name": "With direct-purchase and Medicare coverage"
+                },
+                "B27010046": {
+                    "indent": 3,
+                    "name": "With Medicare and Medicaid/means-tested public coverage"
+                },
+                "B27010047": {
+                    "indent": 3,
+                    "name": "Other private only combinations"
+                },
+                "B27010048": {
+                    "indent": 3,
+                    "name": "Other public only combinations"
+                },
+                "B27010049": {
+                    "indent": 3,
+                    "name": "Other coverage combinations"
+                },
+                "B27010050": {
+                    "indent": 2,
+                    "name": "No health insurance coverage"
+                },
+                "B27010051": {
+                    "indent": 1,
+                    "name": "65 years and over:"
+                },
+                "B27010052": {
+                    "indent": 2,
+                    "name": "With one type of health insurance coverage:"
+                },
+                "B27010053": {
+                    "indent": 3,
+                    "name": "With employer-based health insurance only"
+                },
+                "B27010054": {
+                    "indent": 3,
+                    "name": "With direct-purchase health insurance only"
+                },
+                "B27010055": {
+                    "indent": 3,
+                    "name": "With Medicare coverage only"
+                },
+                "B27010056": {
+                    "indent": 3,
+                    "name": "With TRICARE/military health coverage only"
+                },
+                "B27010057": {
+                    "indent": 3,
+                    "name": "With VA Health Care only"
+                },
+                "B27010058": {
+                    "indent": 2,
+                    "name": "With two or more types of health insurance coverage:"
+                },
+                "B27010059": {
+                    "indent": 3,
+                    "name": "With employer-based and direct-purchase coverage"
+                },
+                "B27010060": {
+                    "indent": 3,
+                    "name": "With employer-based and Medicare coverage"
+                },
+                "B27010061": {
+                    "indent": 3,
+                    "name": "With direct-purchase and Medicare coverage"
+                },
+                "B27010062": {
+                    "indent": 3,
+                    "name": "With Medicare and Medicaid/means-tested public coverage"
+                },
+                "B27010063": {
+                    "indent": 3,
+                    "name": "Other private only combinations"
+                },
+                "B27010064": {
+                    "indent": 3,
+                    "name": "Other public only combinations"
+                },
+                "B27010065": {
+                    "indent": 3,
+                    "name": "Other coverage combinations"
+                },
+                "B27010066": {
+                    "indent": 2,
+                    "name": "No health insurance coverage"
+                }
+            },
+            "denominator_column_id": "B27010001",
+            "title": "Types of Health Insurance Coverage by Age",
+            "universe": "Civilian noninstitutionalized population"
+        }
+    }
+}
