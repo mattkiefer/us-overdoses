@@ -1,25 +1,20 @@
-# overdoses
-analyzing U.S. overdoses and related data  
-based on [CDC Provisional Drug Overdose Death Counts](https://www.cdc.gov/nchs/nvss/vsrr/prov-county-drug-overdose.htm)
+# us-overdoses
+analyzing U.S. overdoses and related data over time at state and county levels
 
 ## data 
-see models.py and google drive
+| name | source | state | county | years | path | notes |
+|------|--------|-------|--------|-------|------|-------|
+| Provisional Drug Overdose Death Counts | CDC | ✅ |  | data/cdc/VSRR_Provisional_Drug_Overdose_Death_Counts_20250917.csv |
+| Provisional County-Level Drug Overdose Death Counts | CDC |  | ✅ | data/cdc/VSRR_Provisional_County-Level_Drug_Overdose_Death_Counts_20250716.csv |
 
-## db 
-This repository is designed to be equally accessible to users via Python, R, SQLite or spreadsheets
 
-### github
-`git pull` to get latest changes  
-`git add` any files you are adding  
-`git commit -m` to add a message to your commit  
-`git push` to commit your changes  
-
-### sqlite
-database file is od.db  
-archives in data/db_backups and on google drive
+## usage
+This database is designed to be accessible to users via Python, R, SQLite or spreadsheets. These quick-start instructions assume you have cloned the repository and unzipped od.db.zip.
 
 ### python
-use peewee to load and query data
+- create virtualenv in repo directory
+- pip install requirements
+- `python main.py --shell` and review prompt to interact with data via peewee orm or pandas
 
 ### R
 - open RStudio  
@@ -38,3 +33,16 @@ plot(
   counties$pct_medicaid_19_64__b27010)
 ```
 ![draft scatter of percent change mortality against percent adults on medicaid](docs/od-scatter.png)
+
+### sqlite
+- use your preferred SQLite manager to query `od.db`
+- this repository also includes datasette, which requires python and installing requirements
+
+### spreadsheets
+- source files a
+- re located in the data directory
+- state- and county-level summaries will be added to the reports directory
+
+## credits
+When using this database, please credit the creators: Matt Kiefer and Hannah Harris Green.  
+This resource was built with support from the USC Annenberg Center for Health Journalism Impact Fund for Reporting on Health Equity and Health Systems.
