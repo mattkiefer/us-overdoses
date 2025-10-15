@@ -1,11 +1,15 @@
 # us-overdoses
 analyzing U.S. overdoses and related data over time at state and county levels
-
+  
 ## data 
+Following is a non-exhaustive listing of core sources for this database:
 | name | source | state | county | years | path | notes |
 |------|--------|-------|--------|-------|------|-------|
-| Provisional Drug Overdose Death Counts | CDC | ✅ |  | data/cdc/VSRR_Provisional_Drug_Overdose_Death_Counts_20250917.csv |
-| Provisional County-Level Drug Overdose Death Counts | CDC |  | ✅ | data/cdc/VSRR_Provisional_County-Level_Drug_Overdose_Death_Counts_20250716.csv |
+| Provisional Drug Overdose Death Counts | CDC | ✅ |  | 2015-2025 | data/cdc/VSRR_Provisional_Drug_Overdose_Death_Counts_20250917.csv |  |
+| Provisional County-Level Drug Overdose Death Counts | CDC |  | ✅ | 2020-2024 | data/cdc/VSRR_Provisional_County- Level_Drug_Overdose_Death_Counts_20250716.csv |  |
+| National Forensic Laboratory Information System | DEA | ✅ |  | 2015-2024 | data/nflis/NFLIS_fent_all.csv |  |
+
+Other data sets included in the database include Census populations, American Community Survey data on income and medical insurance types, [KFF's Status of Medicaid Expansion Decisions](https://www.kff.org/medicaid/status-of-state-medicaid-expansion-decisions/), SAMHSA's National Survey on Drug Use and Health, CDC naloxone and buprenorphine dispensing and various other sources related to drug use in U.S. states and counties.
 
 
 ## usage
