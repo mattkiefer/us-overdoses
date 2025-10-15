@@ -23,7 +23,7 @@ This database is designed to be accessible to users via Python, R, SQLite or spr
 ### R
 - open RStudio  
 - set your working directory, e.g.:   
-`setwd('~/Documents/GitHub/overdoses')`  
+`setwd('~/Documents/GitHub/us-overdoses')`  
 then,  `source('db.R')`  to access tables:   
   - countys  
   - countymonths  
