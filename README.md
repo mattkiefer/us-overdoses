@@ -48,5 +48,5 @@ plot(
 - state- and county-level summaries will be added to the reports directory
 
 ## credits
-When using this database, please credit the creators: Matt Kiefer and Hannah Harris Green.  
+When using this database, please credit the creators: The Guardian, Matt Kiefer and Hannah Harris Green.  
 This resource was built with support from the USC Annenberg Center for Health Journalism Impact Fund for Reporting on Health Equity and Health Systems.
