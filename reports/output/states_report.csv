@@ -1,0 +1,52 @@
+fips,state,pop,mort_per_100k,pct_chg_deaths_202308_202412,pct_medicaid_19-64,medicaid_expansion,cdc_buprenorphine_disp_rate,cdc_naloxone_disp_rate
+11,District of Columbia,669458,53.77,-0.36,0.17,Adopted,3.4,1.2
+02,Alaska,702315,47.56,0.14,0.14,Adopted,5.0,0.5
+32,Nevada,3154027,43.94,0.08,0.12,Adopted,2.5,0.6
+54,West Virginia,1736140,41.99,-0.41,0.18,Adopted,25.9,0.9
+53,Washington,7693927,41.94,-0.07,0.12,Adopted,5.2,0.9
+35,New Mexico,2076456,39.68,-0.24,0.23,Adopted,4.7,1.6
+04,Arizona,7321507,38.11,-0.11,0.13,Adopted,2.7,0.7
+10,Delaware,1017865,34.98,-0.36,0.14,Adopted,6.8,0.4
+47,Tennessee,7033220,33.57,-0.35,0.09,Not Adopted,10.4,1.2
+21,Kentucky,4442248,32.1,-0.32,0.19,Adopted,22.4,1.3
+41,Oregon,4193025,31.12,-0.13,0.16,Adopted,5.1,0.7
+23,Maine,1378322,30.18,-0.26,0.13,Adopted,15.7,0.6
+22,Louisiana,4477873,29.7,-0.36,0.21,Adopted,5.4,0.4
+08,Colorado,5776484,28.6,-0.15,0.12,Adopted,2.9,0.6
+50,Vermont,642064,28.03,-0.21,0.16,Adopted,23.7,0.4
+44,Rhode Island,1079737,26.49,-0.25,0.14,Adopted,7.7,1.4
+45,South Carolina,5276214,26.25,-0.36,0.09,Not Adopted,4.0,1.1
+09,Connecticut,3573821,25.66,-0.31,0.15,Adopted,5.6,0.5
+24,Maryland,6087312,25.66,-0.31,0.12,Adopted,6.6,0.8
+15,Hawaii,1378162,25.03,0.01,0.14,Adopted,1.7,0.4
+42,Pennsylvania,12779387,24.51,-0.34,0.13,Adopted,8.9,0.7
+39,Ohio,11616141,24.36,-0.39,0.14,Adopted,7.9,0.8
+06,California,38495524,23.82,-0.23,0.19,Adopted,1.7,0.7
+18,Indiana,6764280,23.45,-0.29,0.13,Adopted,10.7,0.8
+36,New York,19372404,22.69,-0.32,0.2,Adopted,4.2,0.6
+29,Missouri,6094536,21.68,-0.31,0.09,Adopted,3.0,0.6
+01,Alabama,5022427,20.59,-0.26,0.08,Not Adopted,7.6,0.4
+37,North Carolina,10623208,20.36,-0.34,0.08,Adopted,5.6,0.6
+49,Utah,3391381,20.08,0.01,0.06,Adopted,4.4,0.6
+12,Florida,22276396,19.89,-0.32,0.08,Not Adopted,2.8,0.4
+20,Kansas,2876621,19.54,-0.2,0.06,Not Adopted,1.9,0.4
+40,Oklahoma,3967096,18.8,-0.2,0.12,Adopted,4.7,0.6
+17,Illinois,12378557,18.48,-0.33,0.13,Adopted,2.2,0.5
+34,New Jersey,9204137,18.45,-0.32,0.12,Adopted,3.8,1.2
+25,Massachusetts,6934075,18.34,-0.37,0.16,Adopted,8.7,0.6
+27,Minnesota,5678023,17.75,-0.29,0.13,Adopted,2.5,0.3
+26,Michigan,9931639,17.52,-0.36,0.17,Adopted,5.2,0.7
+33,New Hampshire,1386016,17.24,-0.38,0.08,Adopted,10.4,0.3
+13,Georgia,10832829,17.05,-0.23,0.07,Not Adopted,2.3,0.3
+55,Wisconsin,5851267,16.8,-0.33,0.11,Not Adopted,3.6,0.4
+28,Mississippi,2874290,16.21,-0.25,0.09,Not Adopted,5.0,0.4
+16,Idaho,1938023,16.0,-0.12,0.1,Adopted,4.1,0.5
+56,Wyoming,573746,15.51,-0.17,0.05,Not Adopted,3.2,2.5
+48,Texas,30020476,15.35,-0.13,0.05,Not Adopted,1.4,0.3
+30,Montana,1115486,15.06,-0.04,0.14,Adopted,4.4,0.5
+38,North Dakota,763538,14.67,-0.14,0.07,Adopted,4.9,0.4
+51,Virginia,8489257,14.27,-0.4,0.11,Adopted,5.7,0.8
+19,Iowa,3162048,13.35,-0.07,0.12,Adopted,1.3,0.3
+05,Arkansas,3013015,11.88,-0.29,0.15,Adopted,5.4,1.9
+46,South Dakota,900264,9.33,0.07,0.06,Adopted,2.2,0.3
+31,Nebraska,1951731,7.58,-0.25,0.08,Adopted,2.4,0.4
